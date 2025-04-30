@@ -19,7 +19,7 @@
     "description": "Learn the basics of playing guitar with our comprehensive course on guitar fundamentals.",
     "price": 99.99,
     "instructor": "john Doe",
-    "isFeatured": false,
+    "isFeatured": true,
     "image": "/images/guitar-fundamentals.jpg"
   },
 
